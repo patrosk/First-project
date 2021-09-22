@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/sJWNLTclcvVmw/giphy.gif?cid=ecf05e47629f556125b96a5fb4b86660f048c17ca3f594ea&rid=giphy.gif&ct=g" width="100%">
+<img src="https://media.giphy.com/media/Sr1mQasbC41FK/giphy.gif?cid=ecf05e47anj6rrtiac0sk9q0cf7j03tet2hcx96w22uwp46u&rid=giphy.gif&ct=g">
                                                                  
 # First-project
 
